@@ -1,4 +1,4 @@
-## BLUM BOT By MRP Tech
+## BLUM BOT Share FOREST ARMY 
 
 ## BOT FEATURE
 
@@ -13,10 +13,10 @@ pkg install python rust git -y
 pkg install git
 ```
    ```bash
-   git clone https://github.com/mosibur1/blum2.git
+   git clone https://github.com/YTFORESTARMY/blum.git
    ```
    ```bash
-   cd blum2
+   cd blum
    ```
 3. **ADD ACCOUNTS**
    ```
