@@ -1,4 +1,4 @@
-## BLUM BOT
+## BLUM BOT By MRP Tech
 
 ## BOT FEATURE
 
@@ -26,5 +26,3 @@ pkg install git
 ```bash
 python blum.py
 ```
-
-**TUTORIAL AVAILABLE ON MY YT**
