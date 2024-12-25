@@ -1092,9 +1092,9 @@ def task_main():
 
 def start():
     print(r"""
-          BLUM AUTO GAMEPLAY SCRIPT BY MRP Tech
+          BLUM AUTO GAMEPLAY - FORESTARMY 
 
-          Join Telegram Channel - https://t.me/mrptechofficial
+          Join Telegram Channel - https://t.me/FORESTARMY 
 
         Type 1 And Press Enter To Run The Script
        
@@ -1111,7 +1111,7 @@ def printdelay(delay):
     now = datetime.now().isoformat(" ").split(".")[0]
     hours, remainder = divmod(delay, 3600)
     minutes, sec = divmod(remainder, 60)
-    print(f"{now} | (https://t.me/mrptechofficial) : {hours} hours, {minutes} minutes, and {round(sec)} seconds")
+    print(f"{now} | (https://t.me/FORESTARMY) : {hours} hours, {minutes} minutes, and {round(sec)} seconds")
 
 if __name__ == "__main__":
     start()
