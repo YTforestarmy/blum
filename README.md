@@ -13,10 +13,10 @@ pkg install python rust git -y
 pkg install git
 ```
    ```bash
-   git clone https://github.com/Not-D4rkCipherX/blum.git
+   git clone https://github.com/mosibur1/blum2.git
    ```
    ```bash
-   cd blum
+   cd blum2
    ```
 3. **ADD ACCOUNTS**
    ```
